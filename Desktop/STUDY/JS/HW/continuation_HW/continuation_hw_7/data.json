@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for her sculptural takes on traditional skirt design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Black",
+        "size": "M",
+        "count": 10,
+        "$": 52.00
+    },
+    {
+        "id": 2,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for his sculptural takes on traditional bag design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Gray",
+        "size": "XL",
+        "count": 20,
+        "$": 52.00
+    },
+    {
+        "id": 3,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for her sculptural takes on traditional hat design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Blue",
+        "size": "X",
+        "count": 30,
+        "$": 52.00
+    },
+    {
+        "id": 4,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for her sculptural takes on traditional beard design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Black",
+        "size": "XXL",
+        "count": 40,
+        "$": 52.00
+    },
+    {
+        "id": 5,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for her sculptural takes on traditional jacket design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Violet",
+        "size": "ML",
+        "count": 50,
+        "$": 52.00
+    },
+    {
+        "id": 6,
+        "h3": "ELLERY X M'O CAPSULE",
+        "p": "Known for her sculptural takes on traditional SHIRT design, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "Green",
+        "size": "S",
+        "count": 60,
+        "$": 52.00
+    }
+    
+]
