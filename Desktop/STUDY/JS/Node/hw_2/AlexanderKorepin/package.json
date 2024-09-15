@@ -1,0 +1,16 @@
+{
+  "name": "alexanderkorepin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderKorepin/Node/tree/main/Desktop/STUDY/JS/Node/hw_2"
+  },
+  "keywords": [],
+  "author": "Alexander Korepin",
+  "license": "ISC",
+  "description": "Math functions"
+}
